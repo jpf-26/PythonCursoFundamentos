@@ -7,12 +7,12 @@ name = input("Digite o nome do filme: \n")
 #Alternativa 1
 print ("O ano de lançamento é: ", anoLancamento)
 print ("===================")
-print ("E o nome do filme é: ", name)
+print ("E o nome do filme é: ", name ,"\n")
 
 
 
 #Alternativa 2
-print ("O ano de lançamento é: ", anoLancamento ,"\nE o nome do filme é: ", name) 
+print ("O ano de lançamento é: ", anoLancamento ,"\nE o nome do filme é: ", name, "\n") 
 
 
 
